@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abhaya trivedi
-- 👀 I’m interested in machine learning and UI/UX
-- 🌱 I’m currently learning data structures and web development
+- 👀 I’m interested in machine learning and generativeAI
+- 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on research projects based on neural networks.
 - 📫 trivedi.abhaya10@gmail.com.
 
